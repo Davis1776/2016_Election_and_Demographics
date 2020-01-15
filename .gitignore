@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Config py needs to be ignored
+config.py
+
 # C extensions
 *.so
 
