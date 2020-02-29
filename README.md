@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="200" src="GitHub/Images-Random/ElectionsResults.jfif?raw=true)">
+  <img width="600" height="200" src="Images/ElectionsResults.jfif?raw=true)">
 </p>
 
 Sources:
