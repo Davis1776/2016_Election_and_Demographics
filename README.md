@@ -1,4 +1,4 @@
-<p align="center"><src="Images/ElectionsResults.jfif?raw=true)"></p>
+<p align="center"><src="Images/ElectionsResults.jfif)"></p>
 
 Sources:
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
